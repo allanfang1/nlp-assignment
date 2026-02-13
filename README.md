@@ -23,6 +23,7 @@ Additionally:
 - nlp.ipynb # Main Jupyter notebook with all implementations
 - sentencepairs.tsv # English-French parallel sentence pairs (required - to download)
 - README.md # This file
+- Natural Language Processing Assignment.pdf # Assignment Report
 
 ## Prerequisites
 
@@ -56,3 +57,4 @@ df = pd.read_csv("path/to/your/sentencepairs.tsv", sep="\t", header=None,
 - Upload notebook to Google Colab
 - Mount Google Drive if data is stored there
 - Execute Cells in Order (run cells sequentially as they have dependencies)
+
